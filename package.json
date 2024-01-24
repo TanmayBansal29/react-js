@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Tanmay Bansal",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TanmayBansal29/react-js.git"
+  },
+  "keywords": [],
+  "author": "Tanmay Bansal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TanmayBansal29/react-js/issues"
+  },
+  "homepage": "https://github.com/TanmayBansal29/react-js#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
